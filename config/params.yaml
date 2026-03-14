@@ -1,0 +1,21 @@
+simulation:
+  dt: 0.1
+  total_time: 100.0
+  domain:
+    x_min: 0.0
+    x_max: 100.0
+    y_min: 0.0
+    y_max: 100.0
+
+uav:
+  num_agents: 1
+  max_velocity: 5.0
+  sensing_radius: 15.0
+
+hotspot:
+  motion_type: "circular"
+  origin: [50.0, 50.0]
+  amplitude: 25.0
+  omega: 0.2
+  intensity: 2.0
+  spread: 15.0
