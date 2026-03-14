@@ -1,0 +1,14 @@
+# 实验结果（自动生成，不提交）
+results/
+
+# Python 缓存
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+.Python
+
+# 虚拟环境
+venv/
+env/
+.env/
