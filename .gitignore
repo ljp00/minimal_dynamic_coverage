@@ -1,0 +1,3 @@
+# 忽略仿真生成的输出图像，仅保留 .gitkeep
+output/*.png
+output/*.pdf
